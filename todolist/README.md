@@ -1,6 +1,5 @@
-[logo]: https://github.com/ahmadjehad2000/SvelteJS-Projects/blob/development/todolist/Screenshot%202024-07-05%20083502.png "App Preview"
+![Screenshot 2024-07-05 083502](https://github.com/ahmadjehad2000/SvelteJS-Projects/assets/94564758/1cab80fa-ff55-49a6-bbe1-267c8032cc5c)
 
----
 
 # svelte app
 
