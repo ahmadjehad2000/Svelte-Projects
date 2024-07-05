@@ -1,4 +1,8 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
+A preview for poll details: 
+![Polling1](https://github.com/ahmadjehad2000/Svelte-Projects/assets/94564758/1133885d-ae96-4c1a-aa2a-7588064197b9)
+
+A preview for polling form:
+![Polling2](https://github.com/ahmadjehad2000/Svelte-Projects/assets/94564758/a94408f9-c291-42b2-9375-3d5f72820efa)
 
 ---
 
