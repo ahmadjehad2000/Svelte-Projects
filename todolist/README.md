@@ -1,4 +1,4 @@
-![image] ("todolist/Screenshot 2024-07-05 083502.png")
+[logo]: https://github.com/ahmadjehad2000/SvelteJS-Projects/blob/development/todolist/Screenshot%202024-07-05%20083502.png "App Preview"
 
 ---
 
