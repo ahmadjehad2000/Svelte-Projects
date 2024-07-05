@@ -1,4 +1,6 @@
-![Screenshot 2024-07-05 083502](https://github.com/ahmadjehad2000/SvelteJS-Projects/assets/94564758/1cab80fa-ff55-49a6-bbe1-267c8032cc5c)
+A preview for the App:
+
+![Screenshot 2024-07-05 085341](https://github.com/ahmadjehad2000/Svelte-Projects/assets/94564758/462f9ae9-a2b7-4061-bec3-47d568116231)
 
 
 # svelte app
