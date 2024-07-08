@@ -1,6 +1,7 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
+Preview for the weather app
 
----
+![Screenshot 2024-07-08 080405](https://github.com/ahmadjehad2000/Svelte-Projects/assets/94564758/8eb5a5d2-3f71-4398-8127-4b8b851b44ef)
+----
 
 # svelte app
 
