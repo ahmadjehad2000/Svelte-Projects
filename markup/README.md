@@ -1,3 +1,7 @@
+Preview for my markup parser:
+![Screenshot 2024-07-08 133810](https://github.com/ahmadjehad2000/Svelte-Projects/assets/94564758/471de71d-73b2-488b-abd6-f7a584fa21cb)
+
+--------------
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
